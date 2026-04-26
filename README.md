@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2025-08-11 112708" src="https://github.com/user-attachments/assets/65e32ae4-57c6-4014-ab40-32c20eefb772" /><img width="1920" height="1080" alt="Screenshot 2025-08-11 112708" src="https://github.com/user-attachments/assets/9e473359-1302-45be-bdcb-9477426a0e18" /><img width="1920" height="1080" alt="Screenshot 2025-08-11 112737" src="https://github.com/user-attachments/assets/f89b03de-1657-43e5-8efe-33a3e2edc6cc" /># 📚 Library Management System (Desktop Application)
+ 📚 Library Management System (Desktop Application)
 
 ## 🚀 Overview
 
