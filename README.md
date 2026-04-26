@@ -1,4 +1,4 @@
-# 📚 Library Management System (Desktop Application)
+<img width="1920" height="1080" alt="Screenshot 2025-08-11 112708" src="https://github.com/user-attachments/assets/65e32ae4-57c6-4014-ab40-32c20eefb772" /><img width="1920" height="1080" alt="Screenshot 2025-08-11 112708" src="https://github.com/user-attachments/assets/9e473359-1302-45be-bdcb-9477426a0e18" /><img width="1920" height="1080" alt="Screenshot 2025-08-11 112737" src="https://github.com/user-attachments/assets/f89b03de-1657-43e5-8efe-33a3e2edc6cc" /># 📚 Library Management System (Desktop Application)
 
 ## 🚀 Overview
 
@@ -85,13 +85,18 @@ It is designed to manage book borrowing operations, student records, and library
 ---
 
 ## 🖼️ Screenshots
+<img width="1002" height="665" alt="Screenshot 2025-08-11 112538" src="https://github.com/user-attachments/assets/a4166948-b6ab-4374-b1fd-16d331e4c97a" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-11 112708" src="https://github.com/user-attachments/assets/904d389c-030f-4c4d-ab0e-62943a1f7e02" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-11 112737" src="https://github.com/user-attachments/assets/02a12189-bb32-475f-88c2-19086c29e168" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-11 112746" src="https://github.com/user-attachments/assets/c3073660-a29d-42a3-8387-fcaadbb4cbf7" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-11 112801" src="https://github.com/user-attachments/assets/cf665a11-1a9f-4e90-8ca9-9a8f41b43610" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-11 112845" src="https://github.com/user-attachments/assets/b47f104c-ebe7-4697-ac42-e1997310f76e" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-11 112851" src="https://github.com/user-attachments/assets/58aecf4e-5d0d-42b3-9eb5-673178ea7ea7" />
 
-> Add your application screenshots here
-> Example:
->
-> * Main Dashboard
-> * Add Book شاشة
-> * Borrow/Return شاشة
+
+
+
+
 
 ---
 
